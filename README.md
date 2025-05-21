@@ -2,7 +2,6 @@
 
 Welcome to the repository for *Week 4* of our Java learning journey. This week focused on mastering the *Java Collections Framework* and *Java 8 Streams*, enabling us to efficiently store, process, and transform data using modern Java features.
 
----
 
 ## Table of Contents
 
@@ -17,13 +16,11 @@ Welcome to the repository for *Week 4* of our Java learning journey. This week f
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 
----
 
 ## Overview
 
 In Week 4, we explored *Java Generics, the **Collections Framework* (including Lists, Sets, Maps, and Queues), and Java I/O Streams. We also dove into *Exception Handling, **Regular Expressions, **JUnit Testing, and **Java 8 Features* like Lambdas and Streams. Each topic builds upon the previous weeks, giving us a solid foundation in advanced Java programming.
 
----
 
 ## Topics Covered
 
@@ -35,7 +32,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - Bounded Parameters and Wildcards  
 - Practical Applications in Java  
 
----
 
 ### Day 2: Collections Framework
 
@@ -46,7 +42,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - Comparing Different Collection Types  
 - Real-World Use Cases and Best Practices  
 
----
 
 ### Day 3: Java I/O Streams
 
@@ -57,7 +52,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - I/O Best Practices  
 - Summary of Java I/O Concepts  
 
----
 
 ### Day 4: Exception Handling
 
@@ -69,7 +63,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - Creating Custom Exceptions  
 - Best Practices in Exception Handling  
 
----
 
 ### Day 5: Regex and JUnit
 
@@ -81,7 +74,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - Validating Email IDs using Regex  
 - Writing JUnit Test Cases  
 
----
 
 ### Day 6: Java 8 Features
 
@@ -94,7 +86,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - Creating, Filtering, and Iterating Streams  
 - Understanding Anonymous Classes  
 
----
 
 ## Prerequisites
 
@@ -103,7 +94,6 @@ In Week 4, we explored *Java Generics, the **Collections Framework* (including L
 - Java Development Kit (JDK) installed  
 - IDE or code editor such as IntelliJ IDEA, Eclipse, or VS Code  
 
----
 
 ## How to Use This Repository
 
@@ -114,4 +104,3 @@ This repository is organized by day, with folders containing:
 
 Feel free to explore, execute, and modify the code to strengthen your understanding of advanced Java concepts.
 
----
